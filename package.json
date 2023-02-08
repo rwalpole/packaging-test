@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rwalpole/packaging-test/issues"
   },
-  "homepage": "https://github.com/rwalpole/packaging-test#readme"
+  "homepage": "https://github.com/rwalpole/packaging-test#readme",
+  "publishConfig": {
+     "@rwalpole:registry": "https://npm.pkg.github.com"
+  }
 }
